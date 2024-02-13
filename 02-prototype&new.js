@@ -45,7 +45,7 @@
 //    multiplyBy2.stored // 5
 //    multiplyBy2.prototype // {}
 
-//    New Keywords & Share Functions With Prototype     //
+         //    New Keywords & Share Functions With Prototype     //
 
 // function UserCreator(name, score) {
 //   this.name = name;
